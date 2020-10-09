@@ -3,7 +3,7 @@
 
 Meine Jupyter Notebooks.
 - Author: Susanna Truniger
-
+- Date: 09-10-2020
 
 
 # Markdown - short reference
